@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.png" alt="Easy Converter Banner" width="100%">
+  <img src="banner1.png" alt="Easy Converter Banner" width="100%">
 </div>
 
 # Convert Images Instantly
